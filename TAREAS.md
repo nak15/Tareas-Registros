@@ -6,15 +6,20 @@ Leyenda de estado: `[ ]` pendiente · `[~]` en curso · `[x]` terminada
 
 ## Resumen
 
-| # | Tarea | Materia / área | Estimado | Estado |
-|---|-------|----------------|----------|--------|
-| 1 | 8 módulos de estudio | Calculus | 2:40 – 3:00 | [ ] |
-| 2 | Repasar cómo hacer el examen EPI | EPI Calculus | 0:45 | [ ] |
-| 3 | Reporte: microgravity for pharmaceutical experiments | Ingenierías / cohete | 0:30 – 1:15 | [ ] |
-| 4 | Entender ejercicios de la tarea 4 | WebAssign | 1:00 – 2:00 | [ ] |
-| 5 | Vectores y leyes de coseno/seno de memoria | Física / Matemáticas | 1:30 – 2:00 | [ ] |
+| # | Tarea | Materia / área | Estimado | Fecha límite | Estado |
+|---|-------|----------------|----------|--------------|--------|
+| 7 | Excel de reporte — "Mejora tu PyME" | LIFE | 0:30 | **mar 29 sep** | [ ] |
+| 1 | 8 módulos de estudio | Calculus | 2:40 – 3:00 | — | [ ] |
+| 2 | Repasar cómo hacer el examen EPI | EPI Calculus | 0:45 | — | [ ] |
+| 3 | Reporte: microgravity for pharmaceutical experiments | Ingenierías / cohete | 0:30 – 1:15 | — | [ ] |
+| 4 | Entender ejercicios de la tarea 4 | WebAssign | 1:00 – 2:00 | — | [ ] |
+| 5 | Vectores y leyes de coseno/seno de memoria | Física / Matemáticas | 1:30 – 2:00 | — | [ ] |
+| 6 | M1 \| Homework: Instantaneous acceleration at graph points | Ingenierías (equipo) | 0:30 – 1:00 | — | [ ] |
 
-**Carga total estimada: 6:25 – 9:00 horas.**
+**Carga total estimada: 7:25 – 10:30 horas.**
+
+Lo único con fecha firme es la #7 (martes). Las demás no tienen fecha registrada;
+si alguna la tiene, conviene anotarla para poder priorizar de verdad.
 
 ---
 
@@ -59,3 +64,18 @@ Avance por módulo:
   - [ ] Ley de cosenos
   - [ ] Ley de senos
 - **Notas:** la meta es dominarlo de memoria, así que necesita repetición espaciada, no una sola sentada.
+
+## 6. M1 | Homework: Instantaneous acceleration at graph points
+- **Materia:** Ingenierías — **trabajo en equipo**
+- **Estimado:** 0:30 a 1:00 horas
+- **Estado:** pendiente
+- **Notas:** al ser de equipo, el tiempo real depende de coordinarse; conviene
+  acordar antes quién resuelve qué puntos de la gráfica.
+
+## 7. LIFE — "Mejora tu PyME": Excel de reporte
+- **Materia:** LIFE
+- **Estimado:** 0:30 horas
+- **Fecha límite:** martes 29 de septiembre de 2026
+- **Estado:** pendiente
+- **Notas:** es la única tarea con fecha firme registrada, así que va primero
+  aunque sea la más corta.
