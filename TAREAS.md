@@ -1,6 +1,6 @@
 # Tareas pendientes — universidad
 
-Última actualización: 2026-09-27
+Última actualización: 2026-09-28
 
 Leyenda de estado: `[ ]` pendiente · `[~]` en curso · `[x]` terminada
 
@@ -8,18 +8,19 @@ Leyenda de estado: `[ ]` pendiente · `[~]` en curso · `[x]` terminada
 
 | # | Tarea | Materia / área | Estimado | Fecha límite | Estado |
 |---|-------|----------------|----------|--------------|--------|
-| 7 | Excel de reporte — "Mejora tu PyME" | LIFE | 0:30 | **mar 29 sep** | [ ] |
+| 7 | Excel de reporte — "Mejora tu PyME" | LIFE | 0:30 | **mar 29 sep (mañana)** | [ ] |
 | 1 | 8 módulos de estudio | Calculus | 2:40 – 3:00 | — | [ ] |
 | 2 | Repasar cómo hacer el examen EPI | EPI Calculus | 0:45 | — | [ ] |
 | 3 | Reporte: microgravity for pharmaceutical experiments | Ingenierías / cohete | 0:30 – 1:15 | — | [ ] |
 | 4 | Entender ejercicios de la tarea 4 | WebAssign | 1:00 – 2:00 | — | [ ] |
-| 5 | Vectores y leyes de coseno/seno de memoria | Física / Matemáticas | 1:30 – 2:00 | — | [ ] |
+| 5 | Vectores y leyes de coseno/seno de memoria | Física | 1:30 – 2:00 | — | [ ] |
 | 6 | M1 \| Homework: Instantaneous acceleration at graph points | Ingenierías (equipo) | 0:30 – 1:00 | — | [ ] |
+| 8 | Ejercicios de average speed and velocity (clase del vie 25 sep) | Física | *sin estimar* | — | [ ] |
 
-**Carga total estimada: 7:25 – 10:30 horas.**
+**Carga total estimada: 7:25 – 10:30 horas**, más la #8 que aún no tiene estimado.
 
-Lo único con fecha firme es la #7 (martes). Las demás no tienen fecha registrada;
-si alguna la tiene, conviene anotarla para poder priorizar de verdad.
+Lo único con fecha firme es la #7 (mañana martes). Las demás no tienen fecha
+registrada; si alguna la tiene, conviene anotarla para poder priorizar de verdad.
 
 ---
 
@@ -55,6 +56,7 @@ Avance por módulo:
 - **Notas:** el objetivo es entender los ejercicios, no solo contestarlos.
 
 ## 5. Vectores y leyes de coseno/seno — de memoria
+- **Materia:** Física
 - **Estimado:** 1:30 a 2:00 horas
 - **Estado:** pendiente
 - **Temas:**
@@ -79,3 +81,13 @@ Avance por módulo:
 - **Estado:** pendiente
 - **Notas:** es la única tarea con fecha firme registrada, así que va primero
   aunque sea la más corta.
+
+## 8. Física — estudiar los ejercicios de average speed and velocity
+- **Materia:** Física
+- **Estimado:** sin definir
+- **Estado:** pendiente
+- **Origen:** ejercicios presentados en clase el viernes 25 de septiembre de 2026.
+- **Notas:** va de la mano con la #6 (aceleración instantánea en puntos de la
+  gráfica) y con la #5 (vectores): rapidez promedio es escalar sobre distancia
+  recorrida, velocidad promedio es vectorial sobre desplazamiento. Conviene
+  estudiarlas en la misma sesión.
