@@ -1,6 +1,6 @@
 # Tareas pendientes — universidad
 
-Última actualización: 2026-09-28
+Última actualización: 2026-09-29
 
 Leyenda de estado: `[ ]` pendiente · `[~]` en curso · `[x]` terminada
 
@@ -8,7 +8,7 @@ Leyenda de estado: `[ ]` pendiente · `[~]` en curso · `[x]` terminada
 
 | # | Tarea | Materia / área | Estimado | Fecha límite | Estado |
 |---|-------|----------------|----------|--------------|--------|
-| 7 | Excel de reporte — "Mejora tu PyME" | LIFE | 0:30 | **mar 29 sep (mañana)** | [ ] |
+| 7 | Excel de reporte — "Mejora tu PyME" | LIFE | 0:30 | **HOY, mar 29 sep** | [ ] |
 | 1 | 8 módulos de estudio | Calculus | 2:40 – 3:00 | — | [ ] |
 | 2 | Repasar cómo hacer el examen EPI | EPI Calculus | 0:45 | — | [ ] |
 | 3 | Reporte: microgravity for pharmaceutical experiments | Ingenierías / cohete | 0:30 – 1:15 | — | [ ] |
@@ -16,11 +16,12 @@ Leyenda de estado: `[ ]` pendiente · `[~]` en curso · `[x]` terminada
 | 5 | Vectores y leyes de coseno/seno de memoria | Física | 1:30 – 2:00 | — | [ ] |
 | 6 | M1 \| Homework: Instantaneous acceleration at graph points | Ingenierías (equipo) | 0:30 – 1:00 | — | [ ] |
 | 8 | Ejercicios de average speed and velocity (clase del vie 25 sep) | Física | *sin estimar* | — | [ ] |
+| 9 | Anotar los datos de uso de apps en el Excel | Ciencia de Datos | 0:30 – 0:40 | — | [ ] |
 
-**Carga total estimada: 7:25 – 10:30 horas**, más la #8 que aún no tiene estimado.
+**Carga total estimada: 7:55 – 11:10 horas**, más la #8 que aún no tiene estimado.
 
-Lo único con fecha firme es la #7 (mañana martes). Las demás no tienen fecha
-registrada; si alguna la tiene, conviene anotarla para poder priorizar de verdad.
+La #7 vence **hoy** y son solo 30 minutos: va primero. Las demás no tienen
+fecha registrada; si alguna la tiene, conviene anotarla para poder priorizar de verdad.
 
 ---
 
@@ -91,3 +92,11 @@ Avance por módulo:
   gráfica) y con la #5 (vectores): rapidez promedio es escalar sobre distancia
   recorrida, velocidad promedio es vectorial sobre desplazamiento. Conviene
   estudiarlas en la misma sesión.
+
+## 9. Ciencia de Datos — anotar los datos de uso de apps en el Excel
+- **Materia:** Ciencia de Datos
+- **Estimado:** 0:30 a 0:40 horas
+- **Estado:** pendiente
+- **Notas:** es captura de datos, no análisis. Si el registro es diario, conviene
+  anotar cada día en lugar de acumular la semana: capturar de memoria o de golpe
+  es justo lo que ensucia el dataset.
