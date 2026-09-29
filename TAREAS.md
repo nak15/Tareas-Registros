@@ -9,6 +9,7 @@ Leyenda de estado: `[ ]` pendiente · `[~]` en curso · `[x]` terminada
 | # | Tarea | Materia / área | Estimado | Fecha límite | Estado |
 |---|-------|----------------|----------|--------------|--------|
 | 7 | Excel de reporte — "Mejora tu PyME" | LIFE | 0:30 | **HOY, mar 29 sep** | [ ] |
+| 10 | **Quiz** de la próxima clase (estudiar para presentarlo) | Matemáticas | *prep. sin estimar* | **vie 2 oct** | [ ] |
 | 1 | 8 módulos de estudio | Calculus | 2:40 – 3:00 | — | [ ] |
 | 2 | Repasar cómo hacer el examen EPI | EPI Calculus | 0:45 | — | [ ] |
 | 3 | Reporte: microgravity for pharmaceutical experiments | Ingenierías / cohete | 0:30 – 1:15 | — | [ ] |
@@ -18,10 +19,12 @@ Leyenda de estado: `[ ]` pendiente · `[~]` en curso · `[x]` terminada
 | 8 | Ejercicios de average speed and velocity (clase del vie 25 sep) | Física | *sin estimar* | — | [ ] |
 | 9 | Anotar los datos de uso de apps en el Excel | Ciencia de Datos | 0:30 – 0:40 | — | [ ] |
 
-**Carga total estimada: 7:55 – 11:10 horas**, más la #8 que aún no tiene estimado.
+**Carga total estimada: 7:55 – 11:10 horas**, más la #8 y la preparación de la #10,
+que aún no tienen estimado.
 
-La #7 vence **hoy** y son solo 30 minutos: va primero. Las demás no tienen
-fecha registrada; si alguna la tiene, conviene anotarla para poder priorizar de verdad.
+Con fecha firme: la #7 vence **hoy** (30 min, va primero) y el quiz de la #10 es
+**el viernes 2 de octubre**. Las demás no tienen fecha registrada; si alguna la
+tiene, conviene anotarla para poder priorizar de verdad.
 
 ---
 
@@ -100,3 +103,14 @@ Avance por módulo:
 - **Notas:** es captura de datos, no análisis. Si el registro es diario, conviene
   anotar cada día en lugar de acumular la semana: capturar de memoria o de golpe
   es justo lo que ensucia el dataset.
+
+## 10. Matemáticas — quiz de la próxima clase
+- **Materia:** Matemáticas
+- **Tipo:** examen corto (quiz) en clase
+- **Fecha:** viernes 2 de octubre de 2026 (próxima clase)
+- **Tiempo de preparación:** sin definir
+- **Estado:** pendiente
+- **Notas:** no es una entrega, es un examen, así que el trabajo real es estudiar
+  antes. Las tareas #1 (módulos de Calculus) y #2 (repaso del examen EPI) son el
+  material más cercano; si el quiz cae sobre ese temario, estudiarlas antes del
+  viernes cubre las tres de una vez.
